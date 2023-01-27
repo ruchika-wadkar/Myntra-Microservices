@@ -1,0 +1,12 @@
+server:
+  port: 8767
+
+
+eureka:
+  client:
+    register-with-Eureka: false
+    fetch-Registry: false
+    service-url:
+      defaultZone: ${EUREKA_URI:http://localhost:8767/eureka}
+  server:
+    wait-time-in-ms-when-sync-empty: 0
