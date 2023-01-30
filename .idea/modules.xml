@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservices.iml" filepath="$PROJECT_DIR$/.idea/Microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-discovery/api-discovery.iml" filepath="$PROJECT_DIR$/api-discovery/api-discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/Myntra-Backend/backend.iml" filepath="$PROJECT_DIR$/Myntra-Backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
     </modules>
   </component>
 </project>

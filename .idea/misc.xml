@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/api-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/Myntra-Backend/pom.xml" />
+        <option value="$PROJECT_DIR$/product-service/pom.xml" />
       </list>
     </option>
   </component>
